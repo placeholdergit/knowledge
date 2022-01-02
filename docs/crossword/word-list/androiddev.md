@@ -5,12 +5,16 @@ description: AndroidDev.
 
 # AndroidDev
 
+ADB
 AIDL
 APK
+ActionBar
 Actions
 Adapter
 Android
+AndroidX
 AnimationDrawable
+Assisted
 Attributes
 Autofill
 Baseline
@@ -20,20 +24,30 @@ Canvas
 CardView
 Category
 Checkbox
+Chip
+Circular
 ConstraintLayout
 ConstraintSet
 ContentProvider
+CoroutineCallAdapterFactory
 Crossfade
 DAO
+DI
 DSL
+Dagger
+DataBinding
 Database
 DayNight
 Deep link
+Deferred
 Delete
 Dialog
+DiffUtil
 Double taxation
 DynamicAnimation
 EditText
+Ekito
+Embedded
 EmojiCompat
 Entity
 ExoPlayer
@@ -42,22 +56,32 @@ Extras
 FAB
 Face culling
 Flags
+Fragment
 Geofencing
 GridLayoutManager
+HSDPA
 Head
+Hilt
+HttpLoggingInterceptor
 Immersive
 Implicit
 Insert
 Install-time
+Job
 JobScheduler
 JobService
 Keyframe
+Kodein
+Koin
 Kotlin
 Layout Inspector
 LayoutManager
+Lifecycle
+LifecycleOwner
 LinearLayoutManager
 Lint
 Linux
+LiveData
 Magnifier
 Material
 Media controller
@@ -71,8 +95,13 @@ Navigator
 Nested
 NinePatchDrawable
 Normal
+OkHttp
 OpenGL ES
 OverScroller
+Pager
+PagingData
+PagingDataAdapter
+PagingSource
 Paint
 PendingIntent
 Performance Point
@@ -81,11 +110,14 @@ Preference
 Query
 Radio
 RecyclerView
+RemoteMediator
+Retrofit
 Room
 SAF
 SQLiteOpenHelper
 Safe Args
 Scroller
+Service Locator
 ShapeDrawable
 Shared
 Signature
@@ -96,20 +128,32 @@ Spinner
 StateListAnimator
 Sticky
 Systrace
+Timber
+Timber
 Toasts
 Toggle
+Toolbar
 Tooltip
+Transformation
+Transient
+TypeConverter
 Update
 Uri
 ValueAnimator
 VectorDrawable
+Velocity
 View
+ViewBinding
 ViewGroup
 ViewHolder
+ViewModel
+ViewState
 ViewStub
 Virtual Files
+Volley
 VolumeShaper
 Widget
+WorkManager
 XML
 Z property
 activity
@@ -118,13 +162,18 @@ apply
 background
 binding
 bound
+buildSrc
 chain
 commit
+container
 contract
 custom
 elevation
+findViewById
 foreground
+gRPC
 getItemCount
+glide
 include
 include
 intent
@@ -136,16 +185,20 @@ onClick
 onCreateViewHolder
 onKey
 onLongClick
+onResume
 onTouch
 one-to-many
 one-to-one
 overdraw
 paging
+pip
 popUpTo
 runtime
 schema
 service
+singleTask
 style
 textSize
 theme
 tools
+viewModelScope
