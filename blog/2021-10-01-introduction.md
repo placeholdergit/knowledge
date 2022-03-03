@@ -1,6 +1,6 @@
 ---
-slug: introduction
-title: Introduction to Hagrito
+slug: introduction1
+title: 1 to Hagrito
 author: Ashish Kharche
 author_title: Technical Writer
 author_url: https://github.com/ashishkharche

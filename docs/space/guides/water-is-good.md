@@ -1,5 +1,5 @@
 ---
-sidebar_label: `Water` is Good
+sidebar_label: Water is Good
 description: Water is Good.
 ---
 
